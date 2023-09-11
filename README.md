@@ -1,2 +1,2 @@
 # Reddit-Meme-Generator
-This API gets a random post when given any subreddit
+This project uses FastAPI to get a random post when given any subreddit
